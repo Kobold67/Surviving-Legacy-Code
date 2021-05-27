@@ -27,7 +27,5 @@ namespace Surviving_Legacy_Code
          //return _fibNum.Where(f => 1 == f % 2 ).Average();
          return _fibNum.Average();
       }
-
-
    }
 }
